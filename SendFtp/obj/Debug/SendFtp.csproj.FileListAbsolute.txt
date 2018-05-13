@@ -1,0 +1,12 @@
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\bin\Debug\SendFtp.exe.config
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\bin\Debug\SendFtp.exe
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\bin\Debug\SendFtp.pdb
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\obj\Debug\SendFtp.csprojResolveAssemblyReference.cache
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\obj\Debug\SendFtp.Form1.resources
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\obj\Debug\SendFtp.Properties.Resources.resources
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\obj\Debug\SendFtp.csproj.GenerateResource.Cache
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\obj\Debug\SendFtp.exe
+c:\users\edsel\documents\visual studio 2012\Projects\SendFtp\SendFtp\obj\Debug\SendFtp.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\SendFtp\SendFtp\bin\Debug\SendFtp.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\SendFtp\SendFtp\obj\Debug\SendFtp.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\SendFtp\SendFtp\obj\Debug\SendFtp.pdb
